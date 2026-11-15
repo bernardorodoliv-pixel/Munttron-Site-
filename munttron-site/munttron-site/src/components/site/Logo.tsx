@@ -1,9 +1,7 @@
-import logoAsset from "@/assets/munttron-emblem.png.asset.json";
-
 export function LogoMark({ className = "h-8 w-8" }: { className?: string }) {
   return (
     <img
-      src={logoAsset.url}
+      src="/munttron-emblem.png"
       alt=""
       aria-hidden="true"
       className={`${className} object-contain`}
