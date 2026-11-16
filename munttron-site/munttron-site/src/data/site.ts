@@ -3,7 +3,7 @@ export const site = {
   name: "Munttron",
   tagline: "Tecnologia, segurança e inteligência para o mundo digital.",
   shortDescription:
-    "A Munttron desenvolve soluções de software com foco em tecnologia e cibersegurança.",
+    "O Grupo Munttron desenvolve soluções de software com foco em tecnologia e cibersegurança.",
   email: "" as string, // e-mail institucional oficial — a definir
 };
 
